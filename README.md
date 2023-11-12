@@ -1,2 +1,2 @@
-# hello-world
-Using GitHub Docs to create a repository
+# hello-world 🐤👶
+## Using GitHub Docs to create and manage a repository.
